@@ -233,6 +233,7 @@ GitHub: https://github.com/suguna-kante
 
 ---
 
-## 📄 License
+##  Live API
 
-This project is open source and available under the MIT License.
+Base URL:
+https://student-management-api-postgresql.onrender.com
